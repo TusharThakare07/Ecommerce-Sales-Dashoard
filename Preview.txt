@@ -1,0 +1,15 @@
+File Name         	Description
+
+dashboard.pbix :	Power BI project file (open in Power BI Desktop)
+dashboard.pdf  :  	PDF export of the dashboard
+README.md      :  	Documentation
+
+
+🚀 How to Use
+1️⃣ Open in Power BI Desktop
+Download and install Power BI Desktop (if you haven’t already).
+Clone this repository or download the .pbix file.
+Open dashboard.pbix in Power BI Desktop.
+Explore, modify, and interact with the data.
+2️⃣ View PDF Version
+If you don’t have Power BI Desktop, you can view the dashboard as a PDF (dashboard.pdf).
